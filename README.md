@@ -1,3 +1,21 @@
+Các “guru YouTube không lộ mặt” đang lo lắng.
+
+Một khóa học đầy đủ vừa được mã nguồn mở trên GitHub — gồm 11 module, và những người áp dụng đang tạo ra tới 19.000 USD chỉ trong 7 ngày.
+
+Không còn nhóm Skool giá 2.000 USD. Không paywall. Không kiểu “DM để lấy link”.
+
+Dự án có tên automate-faceless-content do Chris Porter xây dựng.
+
+→ Từ ý tưởng → kịch bản → video → đăng bài tự động hoàn toàn
+→ Triển khai trên YouTube, TikTok, Instagram, Facebook
+→ Phân tích các niche kiếm tiền cao (tài chính, sức khỏe, công nghệ)
+→ Workflow sản xuất hàng loạt: 2 giờ cho 60 video mỗi tháng
+→ Lộ trình kiếm tiền đầy đủ: điều kiện nền tảng, tối ưu doanh thu, affiliate
+
+Điểm đáng chú ý là mô hình này có thể tạo thu nhập thụ động ngay từ người mới.
+
+Ở mức thấp, nhiều người đã đạt 1.000 USD/tháng. Với các niche tốt, việc bật kiếm tiền chỉ mất 2–3 tuần.
+
 <div align="center">
 
 # 🎬 Complete Guide and Full Learning Course to Automating Faceless Video Content
